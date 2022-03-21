@@ -86,10 +86,11 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 26%;
 	width: 75%;
 	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+	margin-top: 0em;
+    list-style: circle;
 }
 
 /*uncomment to get dashes in the list*/

@@ -1,91 +1,58 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dominik von Künßberg's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dominik von Künßberg
+Informatics graduate eager to find efficient solutions and contribute to technological development.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:dvkuenssberg@protonmail.com">dvkuenssberg@protonmail.com</a>
+| +49 1577 6478771
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2022`
+__B.Sc. Informatics__, Technical University of Munich
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015-2017`
+__Apprenticeship as Lawyer's Assistant__, Kanzlei Dres. Kloster-Harz & Harz Rechtsanwälte/Berufsschule für Rechts- und Verwaltungsberufe
 
-- Sizar
+`2007-2015`
+__Allgemeine Hochschulreife__, Gymnasium Weilheim in Oberbayern
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Projects
 
-- Fellow
+__Thesis Work__
+* Implemented a program which matches network frames to process identifiers in Rust
+* Supports 10x the packet rate of existing Python implementation
+* Thesis graded with 1.0
 
+__Systems Programming Course__
+* Implementation of different assignments in C, e.g. a shell pipeline
+* Identification of performance issues using flamegraphs
+* Course graded with 2.0
 
+## Programming languages
 
-## Awards
+* __Rust__ as part of the Bachelor's Thesis
+* __C__ used in the following courses:
+    * Systems Programming
+    * Foundations of Operating Systems and System Software
+* __Java__ as part of the Introduction to Programming course
+* __Python__ used in Network and IT Security courses for example exploit scripts
 
-`2012`
-President, *Royal Society*, London, UK
+## Human languages
+* German (first language)
+* English (fluent)
 
-Associate, *French Academy of Science*, Paris, France
+## Technology
+* Comfortable using the *Linux* command-line and *git* due to personal and academic use
 
+## Work experience
+`2021-2022`
+__Working Student IT Service Desk__, Univativ GmbH
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2017-2018`
+__Lawyer's Assistant__, Hogan Lovells International LLP
