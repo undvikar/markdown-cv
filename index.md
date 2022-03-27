@@ -3,10 +3,11 @@ layout: cv
 title: Dominik von Künßberg's CV
 ---
 # Dominik von Künßberg
-Informatics graduate eager to find efficient solutions and contribute to technological development.
+Informatics graduate eager to find efficient solutions and broaden my expertise developing software.
 
 <div id="webaddress">
-<a href="mailto:dvkuenssberg@protonmail.com">dvkuenssberg@protonmail.com</a>
+<a href="mailto:dvkuenssberg@protonmail.com">dvkuenssberg@protonmail.com</a> |
+<a href="https://github.com/undvikar" target="_blank">GitHub</a>
 | +49 1577 6478771
 </div>
 
@@ -35,24 +36,30 @@ __Systems Programming Course__
 * Course graded with 2.0
 
 ## Programming languages
-
 * __Rust__ as part of the Bachelor's Thesis
 * __C__ used in the following courses:
     * Systems Programming
     * Foundations of Operating Systems and System Software
 * __Java__ as part of the Introduction to Programming course
 * __Python__ used in Network and IT Security courses for example exploit scripts
+* __Haskell__ used in the Functional Programming and Verification course
 
 ## Human languages
 * German (first language)
 * English (fluent)
 
 ## Technology
-* Comfortable using the *Linux* command-line and *git* due to personal and academic use
+* Comfortable using the *Linux* command-line and *git* due to personal and  
+    academic use
 
 ## Work experience
-`2021-2022`
+`November 2021 - March 2022`
 __Working Student IT Service Desk__, Univativ GmbH
+* Advising customers on technical problems
+* Managing access authorizations
 
-`2017-2018`
+`October 2017 - August 2018`
 __Lawyer's Assistant__, Hogan Lovells International LLP
+* Creating invoices and other documents using MS Office
+* Managing calendars and appointments
+* Travel reservations

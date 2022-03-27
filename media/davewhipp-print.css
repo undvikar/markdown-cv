@@ -83,21 +83,25 @@ p code {
 	right: -20%;
 }
 
+small {
+	font-size: .8em;
+}
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 27%;
 	width: 75%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
+    list-style: disc;
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
+/* li:before { */
+/* 	content: "-"; */
+/* 	position: relative; */
+/* 	left: -0.25em; */
+/* } */
 
 li {
 	/*second line indent*/
@@ -111,6 +115,7 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+    margin-bottom: 0.25em;
 }
 
 h1,h2,h3,h4 {
@@ -125,6 +130,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+    margin-bottom: 0.3em;
 }
 
 h1+p {
@@ -167,7 +173,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
